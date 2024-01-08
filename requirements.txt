@@ -1,0 +1,14 @@
+pytorch_warmup
+wandb
+einops
+beartype
+fairseq
+joblib
+transformers
+vector_quantize_pytorch
+local_attention
+gateloop_transformer
+encodec
+ema_pytorch
+accelerate
+scikit-learn

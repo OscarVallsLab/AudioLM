@@ -130,3 +130,8 @@ dmypy.json
 
 # Pycharm
 .idea/
+
+# Big files
+placeholder_dataset/
+hubert/
+results/
