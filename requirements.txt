@@ -12,3 +12,4 @@ encodec
 ema_pytorch
 accelerate
 scikit-learn
+tensorboardX
